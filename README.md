@@ -1,3 +1,3 @@
 # layout_miami
 
-- [DEMO LINK]()
+- [DEMO LINK](https://veronika-donets.github.io/layout_miami/)
